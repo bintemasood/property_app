@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:property_app/login_page.dart';
+import 'package:property_app/login.dart';
 
 class MyTextField extends StatelessWidget {
   // ignore: prefer_typing_uninitialized_variables
